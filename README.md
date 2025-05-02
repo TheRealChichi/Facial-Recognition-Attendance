@@ -10,10 +10,6 @@ This project replaces traditional manual attendance with a real-time face recogn
 - Replace manual roll-call with automated recognition.
 - Handle low-data environments (only 1–4 pictures per student).
 
-## 📽️ Demo
-▶️ Watch the system in action:  
-`Application_Demo.mp4` (included in repo)
-
 ## 🛠️ Tech Stack
 - **Language**: Python
 - **Libraries**: TensorFlow, Keras-Facenet, OpenCV, MTCNN, NumPy
@@ -44,7 +40,6 @@ This project replaces traditional manual attendance with a real-time face recogn
 ## 📚 Documentation
 - [✔️ Final Report (PDF)](./Final_Report.docx)
 - [🧠 Presentation Slides](./Final_Presentation.pptx)
-- [📄 Project Proposal](./Facial_Recognition_Project_Proposal.pdf)
 
 ## 🔧 Install & Run
 ```bash
